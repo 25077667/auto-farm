@@ -1,0 +1,12 @@
+- Arduino board: Arduino Micro pro
+- Sensors:
+	- TEMT6000
+	- DHT11
+- Time: DS1302 RTC
+- LCD: 1602 LCD
+
+
+5V 1路繼電器模組，驅動3V1A抽水馬達
+
+黑線是基礎款，藍色雙線是如果有最好的選擇
+感應端跟控制端（上跟下）可以先做  人機通信介面能晚一點
